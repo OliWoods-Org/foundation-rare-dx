@@ -6,7 +6,7 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/cost-Free_Forever-green" alt="Free">
-  <img src="https://img.shields.io/badge/status-Active-brightgreen" alt="Active">
+  <img src="https://img.shields.io/badge/status-Prototype-yellow" alt="Prototype">
   <img src="https://img.shields.io/badge/diseases-7000%2B-f59e0b" alt="7000+ Diseases">
   <img src="https://img.shields.io/badge/diagnostic_odyssey-target_90_days-10b981" alt="90 Day Target">
   <a href="https://mama.oliwoods.ai"><img src="https://img.shields.io/badge/Built_with-MAMA-8b5cf6" alt="Built with MAMA"></a>
@@ -14,6 +14,17 @@
 </p>
 
 ---
+
+---
+
+## Status / Honesty
+
+This repository is a **prototype library** under the Mama Foundation (Scheme C). It is **not** production clinical software, **not** HIPAA certified, and **not** cleared for care delivery.
+
+- Maturity: **Prototype**
+- Portal path: [https://mama.oliwoods.ai/foundation/rare-dx](https://mama.oliwoods.ai/foundation/rare-dx)
+- See [MAMA-MSTR#959](https://github.com/OliWoods-Org/MAMA-MSTR/issues/959)
+
 
 > **300 million people worldwide live with a rare disease. The average patient sees 7.3 physicians across 4 specialties over 5–7 years before receiving a correct diagnosis — if they ever do.** During that odyssey, they receive an average of 2–3 misdiagnoses that lead to harmful treatments. 30% experience a mental health crisis from the uncertainty alone. Meanwhile, 80% of rare diseases have a known genetic cause, and the data to diagnose them often already exists in the patient's genome or medical record. **This library is the AI layer between a sick person and a name for what's wrong with them: phenotype matching across 7,000+ disease databases, genomic variant interpretation, specialist routing, and clinical trial matching.** The diagnostic odyssey is a data problem. We're solving it with data.
 
